@@ -10,7 +10,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.example</groupId>
+    <groupId>11.ogu.edu.tr</groupId>
+
     <artifactId>java_kargo_projesi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>java_kargo_projesi</name>
